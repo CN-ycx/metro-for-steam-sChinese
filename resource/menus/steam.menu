@@ -5,8 +5,9 @@
 		text=""
 		text = [$OSX]	"#SteamRootAccount"
 		SkinVersion			{	text="Metro For Steam - 4.4"		shellcmd="" }
-		Website			{	text="Official Website"		shellcmd="steam://openurl/http://metroforsteam.com/" }
-		Group			{	text="Steam Community Group"		shellcmd="steam://openurl/http://steamcommunity.com/groups/metroforsteam" }
+		Translate		{	text="简体中文由 ycx Studios 翻译"		shellcmd="steam://openurl/http://www.chinalcmod.com/" }
+		Website			{	text="官方网站"		shellcmd="steam://openurl/http://metroforsteam.com/" }
+		Group			{	text="Steam 社区组"		shellcmd="steam://openurl/http://steamcommunity.com/groups/metroforsteam" }
 		Divider {}
 		NewForYou						{	text="#SteamUI_GameProperties_UpdateNews"		shellcmd="steam://open/newforyou" }
 		CheckForUpdates	{	text="#steam_menu_checkforupdates"		command="CheckForUpdates" }
@@ -17,7 +18,7 @@
 		MiniMode		{	text="#steam_menu_minimode"		shellcmd="steam://open/minigameslist" }
 		LargeMode		{	text="#steam_menu_largemode"			shellcmd="steam://open/largegameslist" }
 		StartVR							{	text="#steam_menu_startvr"				shellcmd="steam://run/250820" }
-		BigPicture		{	text="Big Picture"			shellcmd="steam://open/bigpicture" }
+		BigPicture		{	text="大屏幕模式"			shellcmd="steam://open/bigpicture" }
 		Divider {}
 		MusicDetails					{	text="#steam_menu_view_music_details"			shellcmd="steam://nav/music/details" }
 		MusicPlayer						{	text="#steam_menu_view_musicplayer"		shellcmd="steam://open/musicplayer" }
@@ -157,7 +158,8 @@
 		About							{	text="#steam_about"						command="About" }
 		Divider							{}
 		SkinVersion			{	text="Metro For Steam - 4.4"		shellcmd="" }
-		Website			{	text="Official Website"		shellcmd="steam://openurl/http://metroforsteam.com/" }
-		Group			{	text="Steam Community Group"		shellcmd="steam://openurl/http://steamcommunity.com/groups/metroforsteam" }
+		Translate		{	text="简体中文由 ycx Studios 翻译"		shellcmd="steam://openurl/http://www.chinalcmod.com/" }
+		Website			{	text="官方网站"		shellcmd="steam://openurl/http://metroforsteam.com/" }
+		Group			{	text="Steam 社区组"		shellcmd="steam://openurl/http://steamcommunity.com/groups/metroforsteam" }
 	}
 }
